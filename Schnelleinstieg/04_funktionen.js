@@ -56,4 +56,4 @@ const printRectArea = (width, height) => {
     console.log( width * height );
 }
 printRectArea(5,5);
-// Function Expressions muessen nach der Erstellung aufgerufen werden!!!
+// Function Expressions muessen nach der Erstellung aufgerufen werden!!!~§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§  §§§§§§§§    §§§§§§§§§§§§§q§`````````````````````````````````````````````````````````` ```§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§    1§§§    §   1§§ §   §```````§   1   1   §§§§§§      §§  §§          §§  §§  §1  1       §   q   `````````````~A§§11§§§
